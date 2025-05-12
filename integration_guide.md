@@ -29,7 +29,7 @@ Start the API server:
 python api_integration.py
 ```
 
-This will start the server at http://localhost:5000 by default.
+This will start the server at http://localhost:8000 by default.
 
 ## API Endpoints
 
